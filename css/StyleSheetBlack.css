@@ -1,0 +1,232 @@
+﻿body {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	background-repeat: no-repeat ;
+	background-position : center top ;
+	background-image : url(../images/Back_Black_Solid_1800x1200.gif) ;
+	background-attachment : fixed ;
+	font-size: 10px;
+	color: #000000;
+	
+}
+
+.hidewhenprint { display: inherit }
+
+a:link
+{
+	color: #FFFFFF;
+}
+a:visited {
+	color: #FFFFFF;
+}
+a:hover
+{
+	text-decoration: none;
+	color: #FFFF00;
+}
+.cssPager td
+{
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.TopCartDiv
+{
+	height:33px; width:33px;
+}
+
+.TopLogoDiv 
+{
+	height: 80px; width:340px;
+}
+.TopLogoMobileDiv 
+{
+	height: 100px; width:320px; text-align:left;
+}
+.TopFillVert5
+{
+    height: 5px; background-color:Black;
+}
+.TopFillVert10
+{
+    height: 10px; background-color:Black;
+}
+
+.TopFUInstagram
+{
+    height:24px; width:137px; left:100px; top:165px;
+}
+
+.TopMuralDiv 
+{
+	height: 200px; width:640px;
+}
+.TopMuralMessageDiv 
+{
+	height: 60px; width:440px;
+}
+
+.TopLoginName
+{
+  	text-decoration: none;
+	text-align:left;
+	font-size: 10px;
+	font-weight: bold;
+}
+.TopNewUser
+{
+  	text-decoration: none;
+	text-align:center;
+	font-size: 10px;
+	font-weight: bold;
+}
+.TopFresh
+{
+  	text-decoration: none;
+	text-align:left;
+	font-size: 10px;
+	font-weight: bold;
+}
+.TopMobileFresh
+{
+  	text-decoration: none;
+	text-align:left;
+	font-size: 10px;
+	font-weight: bold;
+}
+.TopFace
+{
+    text-align:center;
+}
+
+.MyGridViewDiv
+{
+	border-style : inset;
+	border-width : 2px;
+}
+
+    .hiddencol
+    {
+        display:none;
+    }
+    .viscol
+    {
+        display:block;
+    }
+
+.MyBlockMin
+{
+	min-height: 450px;
+	display:block;
+}	
+.MyTextUpper
+{
+    text-transform:uppercase;
+}
+.MyValSummCenter
+{
+    text-align:left;
+}
+
+.Talc
+{
+    text-align:center;
+}
+
+.MyBold18
+{
+	font-size: 18px; font-weight: bold;	font-family: Arial, Helvetica, sans-serif; color: White;
+}
+.MyBold18_Italic
+{
+	font-size: 18px; font-weight: bold;	font-style:italic; font-family:Arial Rounded MT Bold ; color: White;
+}
+.MyBold16
+{
+	font-size: 16px; font-weight: bold;	font-family: Arial, Helvetica, sans-serif; color: White;
+}
+.MyBold14
+{
+	font-size: 14px; font-weight: bold;	font-family: Arial, Helvetica, sans-serif; color: White;
+}
+.MyBold12
+{
+	font-size: 12px; font-weight: bold;	font-family: Arial, Helvetica, sans-serif; color: White;
+}
+.MyReg12
+{
+	font-size: 12px; font-weight:normal; font-family: Arial, Helvetica, sans-serif; color: White;
+}
+.MyReg14
+{
+	font-size: 14px; font-weight:normal; font-family: Arial, Helvetica, sans-serif; color: White;
+}
+
+.CRS_10_Center
+{
+	font-size: 10px; font-weight:normal; font-family: Arial, Helvetica, sans-serif; color: Black; text-align:center;
+}
+
+.CRS_10_Left
+{
+	font-size: 10px; font-weight:normal; font-family: Arial, Helvetica, sans-serif; color: Black;
+}
+
+.CRS_10_Center_Bold
+{
+	font-size: 10px; font-weight:bold; font-family: Arial, Helvetica, sans-serif; color: Black; text-align:center;
+}
+.CRS_10_Left_Bold
+{
+	font-size: 10px; font-weight:bold; font-family: Arial, Helvetica, sans-serif; color: Black;
+}
+
+.footer {
+	text-decoration: none;
+	text-align:center;
+	color: #FF0000;
+	font-size: 12px;
+}
+.footer a:link {
+	text-decoration: none;
+	color: #FF0000;
+	font-size: 12px;
+}
+.footer a:visited {
+	text-decoration: none;
+	color: #FF0000;
+	font-size: 12px;
+}
+.footer a:hover {
+	text-decoration: underline;
+	color: #FFF01A;
+	font-size: 12px;
+}
+.footermobile {
+	text-decoration: none;
+	text-align:left;
+	color: #65798D;
+	font-size: 10px;
+}
+.footermobile a:link {
+	text-decoration: none;
+	color: #65798D;
+	font-size: 10px;
+}
+.footermobile a:visited {
+	text-decoration: none;
+	color: #65798D;
+	font-size: 10px;
+}
+.footermobile a:hover {
+	text-decoration: underline;
+	color: #003964;
+	font-size: 10px;
+}
+
+.MyMenuItems 
+{
+	text-align:center;
+}
+.hidden { display: none; height: 60px; width:440px; }
+.unhidden { display: block; height: 60px; width:440px; }
+
