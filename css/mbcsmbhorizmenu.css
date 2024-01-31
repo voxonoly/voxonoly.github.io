@@ -1,0 +1,97 @@
+.ebul_mbhorizmenu, .ebul_mbhorizmenu ul {
+  background-color: #000000;
+  border: 1px solid #555555;
+  display: block;
+  font-size: 1px;
+  margin: 0px;
+  overflow: auto;
+  padding: 2px;
+  position: absolute;
+  visibility: hidden;
+}
+
+.ebul_mbhorizmenu_shadow {
+  background-color: #777777;
+  display: block;
+  margin: 0px;
+  overflow: hidden;
+  position: absolute;
+  visibility: hidden;
+}
+
+.ebul_mbhorizmenu table {
+  border-collapse: separate;
+}
+
+.ebul_mbhorizmenu tr {
+  background-color: #000000;
+  cursor: pointer;
+  font-size: 1px;
+}
+
+.ebul_mbhorizmenu td {
+  border: 1px solid #000000;
+  padding: 3px;
+  text-align: left;
+}
+
+.ebul_mbhorizmenu td a, .ebul_mbhorizmenu td a:visited {
+  color: #EEEEEE;
+  font-family: "Tahoma", serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.ebul_mbhorizmenu tr.hot, .ebul_mbhorizmenu tr.expanded {
+  background-color: #B52000;
+}
+
+.ebul_mbhorizmenu tr.hot td, .ebul_mbhorizmenu tr.expanded td {
+  border-color: #FFFFFF;
+}
+.ebul_mbhorizmenu tr.hot a, .ebul_mbhorizmenu tr.expanded a {
+  color: #FFFFFF;
+  font-family: "Tahoma", serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.ebul_mbhorizmenu td div.ebul_mbhorizmenuseparator {
+  border-top: 1px solid #555555;
+  height: 0px;
+  font-size: 0;
+}
+
+.ebul_mbhorizmenu td.ebul_mbhorizmenuseparatortd {
+  cursor: default;
+}
+
+
+ul.ebul_mbhorizmenu {
+  position: absolute;
+  visibility: hidden;
+}                               
+
+.mbhorizmenuebul_menulist .spaced_li {
+  padding: 0px 7px 0px 0px;
+}
+
+.mbhorizmenuebul_menulist li {
+  list-style: none;
+  float: left;
+}
+
+.mbhorizmenuebul_menulist img {
+  vertical-align: bottom;
+  
+}
+
+.mbhorizmenuebul_menulist {
+  margin: 0px;
+  padding: 0px;
+  line-height: 0px;
+}
